@@ -77,10 +77,19 @@ User selects fish → Choose raise period → Payment → Pickup date is schedul
 
 <img width="1919" height="870" alt="Screenshot 2025-12-25 210807" src="https://github.com/user-attachments/assets/0bd2581c-4065-4d60-ab18-5ed4890ecde4" />
 
+## 💳 Stripe Test Card
 
+```bash
+Card Number: 4242 4242 4242 4242
+Expiration: Any future date
+CVC: Any 3 digits
+ZIP: Any
+```
 
+## 🧪 Requirements
 
-
-
-
+- Before running this frontend, make sure:
+    - Backend server is running
+    - Database is seeded (npm run seed on backend)
+    - Admin & staff accounts exist
 
