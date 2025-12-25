@@ -1,4 +1,4 @@
-<img width="1913" height="871" alt="image" src="https://github.com/user-attachments/assets/d2cd3e2b-50c3-4e3b-ba9f-391e25f89fba" /># 🐟 Koi Farm Shop – Frontend
+# 🐟 Koi Farm Shop – Frontend
 
 Frontend for the **Koi Fish E-commerce & Management System**.  
 Built with **ReactJS**, **Vite**, **GraphQL**, and modern UI libraries.
